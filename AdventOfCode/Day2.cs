@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace AdventOfCode
 {
-    internal class Program
+    internal class Day2
     {
-        static void Main(string[] args)
-        {
-            Day1.Star2();
-            Console.ReadKey();
-        }
+
     }
 }
